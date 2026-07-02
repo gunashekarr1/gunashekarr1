@@ -22,19 +22,9 @@
 
 ### 💡 *"Turning Data into Intelligent Solutions with Artificial Intelligence & Machine Learning."*
 
-</div>
-<div align="center">
 
-# Hi there 👋, I'm Guna Shekar
 
-### 🎓 B.Tech CSE (Artificial Intelligence & Machine Learning)
-### 🤖 Machine Learning • Data Science • Python Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Student;KGunashekar;Building+Real+World+ML+Projects;Python+Developer;Always+Learning+New+Technologies" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=gunashekarr1&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
