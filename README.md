@@ -1,5 +1,30 @@
 <div align="center">
 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> GUNA SHEKAR
+
+# **AI ENGINEER • MACHINE LEARNING DEVELOPER**
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&color=00F5FF&width=900&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Python+Programmer;Building+Intelligent+Solutions;Always+Learning+Always+Building"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=gunashekarr1&style=for-the-badge&color=blue"/>
+
+<img src="https://img.shields.io/github/followers/gunashekarr1?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/gunashekarr1?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Turning Data into Intelligent Solutions with Artificial Intelligence & Machine Learning."*
+
+</div>
+<div align="center">
+
 # Hi there 👋, I'm Guna Shekar
 
 ### 🎓 B.Tech CSE (Artificial Intelligence & Machine Learning)
