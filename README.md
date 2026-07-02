@@ -1,111 +1,174 @@
-<h1 align="center">Hi 👋, I'm Guna Shekar</h1>
-<h3 align="center">B.Tech CSE (AI & Machine Learning) Student | Machine Learning Enthusiast | Python Developer</h3>
+<div align="center">
+
+# Hi there 👋, I'm Guna Shekar
+
+### 🎓 B.Tech CSE (Artificial Intelligence & Machine Learning)
+### 🤖 Machine Learning • Data Science • Python Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Student;Building+Real+World+ML+Projects;Python+Developer;Always+Learning+New+Technologies" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=gunashekarr1&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-🎓 B.Tech Student specializing in **Computer Science & Engineering (Artificial Intelligence & Machine Learning)**
+```python
+class GunaShekar:
 
-🌱 Currently learning
-- Machine Learning
-- Deep Learning
-- Data Science
-- Flask
-- SQL
-- Git & GitHub
+    education = "B.Tech - CSE (Artificial Intelligence & Machine Learning)"
 
-💡 Interested in building AI-powered applications that solve real-world problems.
+    interests = [
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Data Science",
+        "Deep Learning",
+        "Computer Vision"
+    ]
 
-🎯 Goal:
-To become a Machine Learning Engineer and contribute to impactful AI solutions.
+    currently_learning = [
+        "Advanced Machine Learning",
+        "Flask",
+        "Deep Learning",
+        "DSA"
+    ]
+
+    goal = "Machine Learning Engineer 🚀"
+```
 
 ---
 
-## 🚀 Technical Skills
+# 🚀 Tech Stack
 
-### Programming Languages
-- Python
-- SQL
-- Java (Basics)
+<div align="center">
 
-### Machine Learning
-- Scikit-learn
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+### Languages
 
-### Web Development
-- HTML
-- CSS
-- Flask
+<img src="https://skillicons.dev/icons?i=python,java,mysql,html,css" />
 
-### Databases
-- MySQL
+### Libraries & Frameworks
+
+<img src="https://skillicons.dev/icons?i=flask" />
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-White?style=for-the-badge&logo=opencv"/>
 
 ### Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+
+</div>
 
 ---
 
-## 📂 Featured Projects
+# 🌟 Featured Project
 
-### 🏦 Credit Card Approval Prediction
-- Built a Machine Learning model to predict credit card approval.
-- Developed using Python, Flask and Scikit-learn.
-- Implemented data preprocessing, model training and web deployment.
+## 🏦 Credit Card Approval Prediction
 
-**Tech Stack**
-- Python
-- Flask
-- Pandas
-- Scikit-learn
-- HTML/CSS
+✔ Machine Learning based prediction system
 
----
+✔ Data Cleaning & Feature Engineering
 
-## 📚 Currently Learning
+✔ Model Training & Evaluation
 
-- Advanced Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing (NLP)
-- Data Structures & Algorithms
+✔ Flask Web Application
+
+✔ Responsive User Interface
+
+### Tech Used
+
+`Python` • `Flask` • `Scikit-learn` • `Pandas` • `NumPy` • `HTML` • `CSS`
 
 ---
 
-## 📈 GitHub Stats
+# 📚 Currently Learning
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gunashekarr1&show_icons=true&theme=tokyonight" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunashekarr1&layout=compact&theme=tokyonight" height="170">
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=gunashekarr1&theme=tokyonight"/>
-</p>
+- 🤖 Deep Learning
+- 📊 Data Science
+- 🧠 Neural Networks
+- 👁 Computer Vision
+- 💬 Natural Language Processing
+- ⚡ Data Structures & Algorithms
 
 ---
 
-## 🤝 Connect with Me
+# 📊 GitHub Analytics
 
-- GitHub: https://github.com/gunashekarr1
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gunashekarr1&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunashekarr1&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## 💬 Quote
+<div align="center">
 
-> "Learning never stops. Every project is one step closer to becoming a better AI Engineer."
+<img src="https://streak-stats.demolab.com?user=gunashekarr1&theme=tokyonight&hide_border=true"/>
 
-⭐ Thank you for visiting my profile!
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=gunashekarr1&theme=tokyonight&no-frame=true&column=4"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+✅ Build 15+ Machine Learning Projects
+
+✅ Learn Deep Learning
+
+✅ Master Data Structures & Algorithms
+
+✅ Contribute to Open Source
+
+✅ Secure a Software / ML Internship
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/gunashekarr1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 Quote
+
+*"Artificial Intelligence is not about replacing humans, it's about empowering them."*
+
+⭐ Thanks for visiting my profile!
+
+</div>
