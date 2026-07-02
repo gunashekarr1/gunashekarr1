@@ -5,7 +5,7 @@
 ### 🎓 B.Tech CSE (Artificial Intelligence & Machine Learning)
 ### 🤖 Machine Learning • Data Science • Python Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Student;K Guna sekhar;Building+Real+World+ML+Projects;Python+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Student;KGunashekar;Building+Real+World+ML+Projects;Python+Developer;Always+Learning+New+Technologies" />
 
 <br>
 
