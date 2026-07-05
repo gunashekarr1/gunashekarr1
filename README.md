@@ -2,8 +2,6 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> GUNA SHEKAR
 
-# **AI ENGINEER • MACHINE LEARNING DEVELOPER**
-
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&color=00F5FF&width=900&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Python+Programmer;Building+Intelligent+Solutions;Always+Learning+Always+Building"/>
 
 <br>
@@ -39,10 +37,7 @@ class GunaShekar:
 
     interests = [
         "Machine Learning",
-        "Artificial Intelligence",
-        "Data Science",
-        "Deep Learning",
-        "Computer Vision"
+        "Artificial Intelligence"
     ]
 
     currently_learning = [
